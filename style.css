@@ -21,7 +21,10 @@ background-color: #efd6c7;
   margin-left: -35px
 }
 
-
+img 
+{
+    image-orientation: from-image;
+}
 
 #head #title
 {
